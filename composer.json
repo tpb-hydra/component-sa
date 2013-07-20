@@ -1,0 +1,12 @@
+{
+    "name": "asphyxia/staticassets",
+    "description": "Static assets",
+    "keywords": ["silex"],
+    "license": "MIT",
+    "require": {
+        "silex/silex": "1.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": { "Asphyxia\\Hydra": "src" }
+    }
+}

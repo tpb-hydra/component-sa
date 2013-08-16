@@ -1,7 +1,7 @@
 {
-    "name": "asphyxia/staticassets",
-    "description": "Static assets",
-    "keywords": ["silex"],
+    "name": "asphyxia/tpb-hydra-component-staticassets",
+    "description": "TPB Hydra proxy Static assets",
+    "keywords": ["tpb hydra"],
     "license": "MIT",
     "require": {
         "silex/silex": "1.0.*@dev"

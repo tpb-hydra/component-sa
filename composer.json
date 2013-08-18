@@ -1,10 +1,15 @@
 {
     "name": "tpb-hydra/component-sa",
     "description": "TPB Hydra proxy Static assets",
-    "keywords": ["tpb hydra"],
-    "license": "MIT",
+    "keywords": ["tpb", "proxy", "hydra"],
+    "license": "GPL-3.0",
+    "authors": {
+        "name": "DC*",
+        "email": "dc@syncr.com.ar",
+        "homepage": "http://devl.com.ar"
+    },
     "require": {
-        "silex/silex": "1.0.*@dev"
+        "silex/silex": "~1.0"
     },
     "autoload": {
         "psr-0": { "Hydra\\Component\\StaticAssets": "src" }

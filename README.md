@@ -1,4 +1,4 @@
-TPB Hydra Component - Static Assets
+Static Assets - TPB Hydra Component
 ---
 Provides configurable static content (pages, files) to be served.
 

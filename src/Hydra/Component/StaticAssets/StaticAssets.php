@@ -1,5 +1,5 @@
 <?php
-namespace Asphyxia\Hydra;
+namespace Hydra\Component\StaticAssets;
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;
